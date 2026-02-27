@@ -1,0 +1,265 @@
+{
+  "version": "1.0.0",
+  "codigo_activacion": "TOBINESIO",
+  "app_activa": true,
+  "mensaje_mantenimiento": "",
+  "youtube_api_key": "PONER_API_KEY_AQUI",
+  "canales": {
+    "principales": [
+      {
+        "id": 1,
+        "nombre": "Canal 10 Tucumán",
+        "icono": "📡",
+        "color": "#1565C0",
+        "channel_handle": "@canal10tucuman",
+        "video_id_conocido": "NF_UDP5rIgE",
+        "bloqueado": false
+      },
+      {
+        "id": 2,
+        "nombre": "Canal 8 Tucumán",
+        "icono": "📺",
+        "color": "#6A1B9A",
+        "channel_handle": "@canal8tucuman",
+        "video_id_conocido": "b4X7InUxnAI",
+        "bloqueado": false
+      },
+      {
+        "id": 3,
+        "nombre": "América Tucumán",
+        "icono": "🎙️",
+        "color": "#E65100",
+        "channel_handle": "@americatucuman",
+        "video_id_conocido": "QHkFM4O1m3Y",
+        "bloqueado": false
+      },
+      {
+        "id": 4,
+        "nombre": "Telefe Noticias",
+        "icono": "📰",
+        "color": "#0D47A1",
+        "channel_handle": "UCylFRiJQwBg7_-5HFJ-QKUQ",
+        "video_id_conocido": "XhAYcYpPzTc",
+        "bloqueado": true
+      },
+      {
+        "id": 5,
+        "nombre": "Telefe",
+        "icono": "⭐",
+        "color": "#1976D2",
+        "channel_handle": "UCiLSHgbkBPq1Cd0PEFnRnoA",
+        "video_id_conocido": "0ijT5ITESgo",
+        "bloqueado": true
+      },
+      {
+        "id": 6,
+        "nombre": "A24",
+        "icono": "🔴",
+        "color": "#B71C1C",
+        "channel_handle": "@a24",
+        "video_id_conocido": "ArKbAx1K-2U",
+        "bloqueado": false
+      },
+      {
+        "id": 7,
+        "nombre": "FM Vida",
+        "icono": "🎵",
+        "color": "#00695C",
+        "channel_handle": "@fmvida",
+        "video_id_conocido": "dGQ25rVfUH4",
+        "bloqueado": false
+      },
+      {
+        "id": 8,
+        "nombre": "La Nación",
+        "icono": "🗞️",
+        "color": "#37474F",
+        "channel_handle": "@lanacion",
+        "video_id_conocido": "M_gUd2Bp9g0",
+        "bloqueado": false
+      },
+      {
+        "id": 9,
+        "nombre": "Todo Noticias",
+        "icono": "📡",
+        "color": "#1A237E",
+        "channel_handle": "@tn",
+        "video_id_conocido": "cb12KmMMDJA",
+        "bloqueado": false
+      },
+      {
+        "id": 10,
+        "nombre": "C5N",
+        "icono": "🔵",
+        "color": "#CC0000",
+        "channel_handle": "@c5n",
+        "video_id_conocido": "SF06Qy1Ct6Y",
+        "bloqueado": false
+      },
+      {
+        "id": 11,
+        "nombre": "Quiero Música",
+        "icono": "🎶",
+        "color": "#880E4F",
+        "channel_handle": "@quieromusica",
+        "video_id_conocido": "vGNglKWqwcQ",
+        "bloqueado": false
+      },
+      {
+        "id": 12,
+        "nombre": "Crónica TV",
+        "icono": "⚡",
+        "color": "#F57F17",
+        "channel_handle": "@cronicatv",
+        "video_id_conocido": "sGnaFL_Syl0",
+        "bloqueado": false
+      },
+      {
+        "id": 13,
+        "nombre": "Canal 26",
+        "icono": "📻",
+        "color": "#1B5E20",
+        "channel_handle": "@canal26",
+        "video_id_conocido": "c8Uxc6pwDNA",
+        "bloqueado": false
+      },
+      {
+        "id": 14,
+        "nombre": "TV Pública",
+        "icono": "🏛️",
+        "color": "#004D40",
+        "channel_handle": "@tvpublica",
+        "video_id_conocido": "eARxsWuAOJc",
+        "bloqueado": false
+      },
+      {
+        "id": 15,
+        "nombre": "Gran Hermano",
+        "icono": "👁️",
+        "color": "#4A148C",
+        "channel_handle": "UCylFRiJQwBg7_-5HFJ-QKUQ",
+        "video_id_conocido": "f1ZFCGKkaks",
+        "bloqueado": true
+      },
+      {
+        "id": 16,
+        "nombre": "MasterChef Argentina",
+        "icono": "👨‍🍳",
+        "color": "#BF360C",
+        "channel_handle": "@masterchefar",
+        "video_id_conocido": "",
+        "bloqueado": true
+      },
+      {
+        "id": 17,
+        "nombre": "Caso Cerrado",
+        "icono": "⚖️",
+        "color": "#263238",
+        "channel_handle": "@casocerrado",
+        "video_id_conocido": "CG7UYN5OrQA",
+        "bloqueado": false
+      },
+      {
+        "id": 18,
+        "nombre": "Monstruos del Río",
+        "icono": "🐟",
+        "color": "#006064",
+        "channel_handle": "@monstruosdelrio",
+        "video_id_conocido": "7CYfyzghFIg",
+        "bloqueado": false
+      },
+      {
+        "id": 19,
+        "nombre": "Alerta Aeropuerto",
+        "icono": "✈️",
+        "color": "#01579B",
+        "channel_handle": "@alertaaeopuerto",
+        "video_id_conocido": "88Uwy4d6iLs",
+        "bloqueado": false
+      },
+      {
+        "id": 20,
+        "nombre": "Crimen",
+        "icono": "🔍",
+        "color": "#212121",
+        "channel_handle": "@crimen",
+        "video_id_conocido": "lgbpNlZtWSU",
+        "bloqueado": false
+      }
+    ],
+    "infantiles": [
+      {
+        "id": 101,
+        "nombre": "Masha y el Oso",
+        "icono": "🐻",
+        "color": "#E91E63",
+        "channel_handle": "@mashayeloso",
+        "video_id_conocido": "8ZTe5n_SFfg",
+        "bloqueado": false
+      },
+      {
+        "id": 102,
+        "nombre": "Jorge el Curioso",
+        "icono": "🐵",
+        "color": "#FF9800",
+        "channel_handle": "@jorgeelcurioso",
+        "video_id_conocido": "-tKBWvA08So",
+        "bloqueado": false
+      },
+      {
+        "id": 103,
+        "nombre": "La Oveja Shaun",
+        "icono": "🐑",
+        "color": "#607D8B",
+        "channel_handle": "@shaun",
+        "video_id_conocido": "tfJyWlBWzLA",
+        "bloqueado": false
+      },
+      {
+        "id": 104,
+        "nombre": "Tom y Jerry",
+        "icono": "🐱",
+        "color": "#F44336",
+        "channel_handle": "@tomyjerry",
+        "video_id_conocido": "rEKifG2XUZg",
+        "bloqueado": false
+      },
+      {
+        "id": 105,
+        "nombre": "Bluey",
+        "icono": "🐶",
+        "color": "#1565C0",
+        "channel_handle": "@bluey",
+        "video_id_conocido": "ItJSLtn5gT4",
+        "bloqueado": false
+      },
+      {
+        "id": 106,
+        "nombre": "Miraculous",
+        "icono": "🐞",
+        "color": "#E91E63",
+        "channel_handle": "@miraculous",
+        "video_id_conocido": "yX98j67OxHg",
+        "bloqueado": false
+      },
+      {
+        "id": 107,
+        "nombre": "Peppa Pig",
+        "icono": "🐷",
+        "color": "#F48FB1",
+        "channel_handle": "@peppapig",
+        "video_id_conocido": "9amTXNQa8uc",
+        "bloqueado": false
+      },
+      {
+        "id": 108,
+        "nombre": "Cars",
+        "icono": "🚗",
+        "color": "#D32F2F",
+        "channel_handle": "@cars",
+        "video_id_conocido": "m23Q6biuVpE",
+        "bloqueado": false
+      }
+    ]
+  }
+}
